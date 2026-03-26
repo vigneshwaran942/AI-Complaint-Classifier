@@ -1,0 +1,14 @@
+{
+  "[typescript]": {
+    "defaultFormatter": "deno.deno"
+  },
+  "[typescriptreact]": {
+    "defaultFormatter": "deno.deno"
+  },
+  "deno.enable": true,
+  "deno.path": "deno",
+  "deno.unstable": true,
+  "[deno]": {
+    "defaultFormatter": "deno.deno"
+  }
+}
